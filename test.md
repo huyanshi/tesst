@@ -44,14 +44,19 @@
 ![](http://www.baidu.com/img/bdlogo.gif)
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
 ![](http://www.baidu.com/img/bdlogo.gif"百度logo")
+>>>>>满二叉树
 ####使用仓库里面的图片
     *https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
     * https://github.com/huyanshi/tesst/raw/master/aaa.jpg
 ![](https://github.com/huyanshi/tesst/blob/master/aaa.JPG)
 ![](https://github.com/huyanshi/tesst/raw/master/aaa.jpg)
+>>>>平衡二叉树
 ####给图片添加超链接
+>>>二叉树
 [![baidu]](http://baidu.com)
+>>树
 []:
+>数据结构
 
 
 
